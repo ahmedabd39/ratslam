@@ -2,7 +2,7 @@ The ROS version of RatSLAM has been designed as a more modular version than the 
 
 OpenRatSLAM is based on the RatSLAM C++ library written by David Ball and Scott Heath, with support and additions by Michael Milford. The RatSLAM algorithm was originally designed and implemented by Michael Milford and Gordon Wyeth.
 
-OpenRatSLAM has only been tested on Ubuntu and as ROS support for platforms other than Linux is still limited, this will probably not change.
+
 
 For a full description of ROS terminology have a look [here](http://www.ros.org).
 
